@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 243, 204);
+}
+
+
+#top{
+    background-image: linear-gradient(to right,#dc5353 , #f9e090);
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    
+    
+}
+
+.logo{
+    position: relative;
+    margin-top: 40px;
+    
+}
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.frame{
+    text-align: center;
+    margin-left: 40px;
+    height: 60%;;
+}
+
+.sheet{
+    color: black;
+
+}
